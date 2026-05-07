@@ -1,0 +1,474 @@
+{
+  "name": "Daily Number Match",
+  "domain": "dailynumbermatch.online",
+  "slug": "dailynumbermatch",
+  "genre": "Puzzle",
+  "iframeUrl": "/game/index.html",
+  "embedUrl": "https://dailynumbermatch.com/",
+  "embedSource": "DailyNumberMatch.com browser game",
+  "seo": {
+    "title": "Daily Number Match Online - Free Browser Game, No Download",
+    "description": "Play Daily Number Match online free. Pair identical numbers or numbers that add to ten, clear the board, and train your logic in the browser.",
+    "keywords": [
+      "Daily Number Match",
+      "number match game",
+      "match ten puzzle",
+      "free number puzzle",
+      "daily logic game",
+      "browser brain game"
+    ]
+  },
+  "homepage": {
+    "heroHeadline": "Find the pairs and clear the numbers.",
+    "heroSubtitle": "Match identical digits or pairs that add to ten in a calm daily number puzzle for browser play.",
+    "lede": "Daily Number Match is a number-clearing puzzle where you pair identical numbers or complementary numbers that add to ten. Each board rewards patience, scanning, and smart use of hints.",
+    "stats": [
+      {
+        "value": "10",
+        "label": "Match Target"
+      },
+      {
+        "value": "5",
+        "label": "Skill Areas"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "100%",
+        "label": "Free Access"
+      }
+    ],
+    "about": {
+      "kicker": "What is Daily Number Match?",
+      "headline": "A clean number puzzle for daily brain training.",
+      "paragraph1": "Daily Number Match presents a grid of numbers and asks you to clear it by finding valid pairs. Matching identical numbers works, and so do pairs that add up to ten.",
+      "paragraph2": "The game runs through a local play page on this site, so visitors can start from the same simple route every time. No account is needed to begin, and the content around the game explains the rules clearly for players and families."
+    },
+    "howToPlay": {
+      "headline": "Scan, pair, clear.",
+      "subheading": "The rules are simple, but high scores come from spotting less obvious connections."
+    },
+    "steps": [
+      {
+        "icon": "folder",
+        "title": "Open the Grid",
+        "desc": "Load the daily puzzle and take in the full number board before tapping."
+      },
+      {
+        "icon": "eye",
+        "title": "Find a Pair",
+        "desc": "Look for identical numbers or complements that add to ten, such as 1 and 9 or 4 and 6."
+      },
+      {
+        "icon": "refresh",
+        "title": "Clear the Match",
+        "desc": "Tap the two valid numbers to remove them and open new paths."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Use Tools Wisely",
+        "desc": "Use hint or copy tools only when the board is genuinely stuck."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Finish the Board",
+        "desc": "Keep clearing pairs until the grid is empty or no useful move remains."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Starter",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Practice",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Challenge",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Expert",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Master",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
+    ],
+    "features": [
+      {
+        "icon": "bolt",
+        "title": "Daily Puzzle Loop",
+        "desc": "Short boards make the game easy to use as a quick focus exercise."
+      },
+      {
+        "icon": "target",
+        "title": "Match-Ten Logic",
+        "desc": "Pairing complements builds quick arithmetic recognition without feeling like homework."
+      },
+      {
+        "icon": "device",
+        "title": "Browser Friendly",
+        "desc": "The grid works on desktop, tablet, and phone browsers."
+      },
+      {
+        "icon": "image",
+        "title": "Clean Number Grid",
+        "desc": "Readable numbers and simple feedback keep attention on the puzzle."
+      },
+      {
+        "icon": "shield",
+        "title": "Safe for Families",
+        "desc": "No chat, account gate, or user-generated content is needed to play from this page."
+      },
+      {
+        "icon": "music",
+        "title": "Calm Practice",
+        "desc": "The pace is deliberate and works well for short mental breaks."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Daily Number Match?",
+        "a": "Daily Number Match is a number puzzle where you clear a grid by pairing identical numbers or numbers that add up to ten."
+      },
+      {
+        "q": "Is Daily Number Match free?",
+        "a": "Yes. You can open the browser game without paying or creating an account."
+      },
+      {
+        "q": "Which pairs are valid?",
+        "a": "Identical numbers are valid, and so are complements such as 1 and 9, 2 and 8, 3 and 7, 4 and 6, or 5 and 5."
+      },
+      {
+        "q": "Does it work on mobile?",
+        "a": "Yes. The game is designed for modern browsers and supports touch input."
+      },
+      {
+        "q": "Is it good for brain training?",
+        "a": "It uses scanning, pattern recognition, and light arithmetic, so it works well as a short logic exercise."
+      },
+      {
+        "q": "Do I need an account?",
+        "a": "No. Progress is handled locally by the external game page where supported."
+      }
+    ],
+    "cta": {
+      "headline": "Open Daily Number Match and start playing.",
+      "subtext": "No install, no account wall, and no complicated setup. Start with a short session and build from there."
+    }
+  },
+  "playPage": {
+    "howItWorksSubtitle": "Three steps to your first cleared pair.",
+    "steps": [
+      {
+        "title": "Scan the Grid",
+        "desc": "Look across rows, columns, and open spaces for numbers that match or add to ten."
+      },
+      {
+        "title": "Tap a Valid Pair",
+        "desc": "Remove the pair and use the new empty space to reveal longer connections."
+      },
+      {
+        "title": "Keep the Board Open",
+        "desc": "Clear edge and row-end pairs when they create more options for later moves."
+      }
+    ]
+  },
+  "faqPage": {
+    "items": [
+      {
+        "q": "What is Daily Number Match?",
+        "a": "Daily Number Match is a number puzzle where you clear a grid by pairing identical numbers or numbers that add up to ten."
+      },
+      {
+        "q": "Is Daily Number Match free?",
+        "a": "Yes. You can open the browser game without paying or creating an account."
+      },
+      {
+        "q": "Which pairs are valid?",
+        "a": "Identical numbers are valid, and so are complements such as 1 and 9, 2 and 8, 3 and 7, 4 and 6, or 5 and 5."
+      },
+      {
+        "q": "Does it work on mobile?",
+        "a": "Yes. The game is designed for modern browsers and supports touch input."
+      },
+      {
+        "q": "Is it good for brain training?",
+        "a": "It uses scanning, pattern recognition, and light arithmetic, so it works well as a short logic exercise."
+      },
+      {
+        "q": "Do I need an account?",
+        "a": "No. Progress is handled locally by the external game page where supported."
+      },
+      {
+        "q": "Can I play on a phone?",
+        "a": "Yes. Daily Number Match is intended for modern mobile and desktop browsers. A larger screen can make some decisions easier to read, but touch controls work for casual play."
+      },
+      {
+        "q": "Is this safe for children?",
+        "a": "The page avoids chat, social posting, account gates, and user-generated content. Parents should still set normal screen-time limits and supervise younger players."
+      }
+    ]
+  },
+  "howToPlayPage": {
+    "intro": "Daily Number Match is a match-ten number puzzle. The goal is to clear numbers by pairing equal values or values that add up to ten, while keeping the board open enough for future moves.",
+    "steps": [
+      {
+        "title": "Scan the Grid",
+        "desc": "Look across rows, columns, and open spaces for numbers that match or add to ten."
+      },
+      {
+        "title": "Tap a Valid Pair",
+        "desc": "Remove the pair and use the new empty space to reveal longer connections."
+      },
+      {
+        "title": "Keep the Board Open",
+        "desc": "Clear edge and row-end pairs when they create more options for later moves."
+      }
+    ],
+    "mechanic": {
+      "title": "Match-Ten Pairing",
+      "desc": "The key mechanic is finding pairs. Some are next to each other, while others become possible after numbers between them have been cleared."
+    },
+    "difficultyProgression": "Early boards are about learning pair rules. Harder boards require scanning diagonals, row ends, and long-distance connections after each clear.",
+    "tips": [
+      {
+        "title": "Memorize complements",
+        "desc": "Know 1-9, 2-8, 3-7, 4-6, and 5-5 so pairs stand out quickly."
+      },
+      {
+        "title": "Clear edges early",
+        "desc": "Edges often create new lines through the board after they disappear."
+      },
+      {
+        "title": "Check row ends",
+        "desc": "The end of one row can connect to the start of another after spaces open."
+      },
+      {
+        "title": "Use hints to learn",
+        "desc": "A hint is most useful when it teaches a pairing pattern you missed."
+      },
+      {
+        "title": "Pause before copy",
+        "desc": "Copy can help a stuck board, but using it too early creates clutter."
+      }
+    ]
+  },
+  "blog": {
+    "headline": "Guides &amp; Strategy",
+    "subheading": "Practical tips and safe-play guidance for Daily Number Match.",
+    "introParagraph": "These guides explain how to approach Daily Number Match with clearer decisions, better habits, and safer browser play.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Daily Number Match",
+        "excerpt": "Learn the objective, controls, and first-session habits for Daily Number Match.",
+        "category": "Guide",
+        "readTime": "6 min read",
+        "date": "2026-01-01",
+        "icon": "map",
+        "sections": [
+          {
+            "heading": "What Makes Daily Number Match Different",
+            "paragraphs": [
+              "Daily Number Match works because the goal is easy to understand but the decisions stay interesting. The game is built around match-ten logic, careful scanning, and daily practice. The best sessions are not about rushing through menus; they are about reading the board, choosing a sensible next move, and learning from each attempt.",
+              "That structure makes the game useful for quick breaks and longer practice sessions. A player can open the browser, understand the objective quickly, and still find enough depth to improve over time."
+            ]
+          },
+          {
+            "heading": "First Session Priorities",
+            "paragraphs": [
+              "Use the first few minutes to learn the rhythm rather than chasing a perfect score. Watch how the game responds to each input, notice which choices create more options, and restart calmly if an early decision blocks progress.",
+              "Once the basic rules feel natural, start thinking one or two moves ahead. Most avoidable mistakes come from acting on the first visible option instead of checking whether it helps the next step."
+            ]
+          },
+          {
+            "heading": "Common Mistakes",
+            "paragraphs": [
+              "The most common beginner mistake is treating every move as isolated. Good play usually comes from sequencing: one decision should prepare the next, clear space, or protect an important resource.",
+              "Another mistake is ignoring the easiest source of feedback. When a run fails, pause for a moment and name the reason. A specific lesson is more useful than a fast retry."
+            ]
+          },
+          {
+            "heading": "Ready to Play",
+            "paragraphs": [
+              "Open Daily Number Match, play a short round, and focus on clean decisions. The more deliberately you read the situation, the faster the game becomes familiar and rewarding."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Top Tips for Daily Number Match",
+        "excerpt": "Use these practical habits to make better decisions in Daily Number Match.",
+        "category": "Strategy",
+        "readTime": "6 min read",
+        "date": "2026-01-01",
+        "icon": "idea",
+        "sections": [
+          {
+            "heading": "What Makes Daily Number Match Different",
+            "paragraphs": [
+              "Daily Number Match works because the goal is easy to understand but the decisions stay interesting. The game is built around match-ten logic, careful scanning, and daily practice. The best sessions are not about rushing through menus; they are about reading the board, choosing a sensible next move, and learning from each attempt.",
+              "That structure makes the game useful for quick breaks and longer practice sessions. A player can open the browser, understand the objective quickly, and still find enough depth to improve over time."
+            ]
+          },
+          {
+            "heading": "First Session Priorities",
+            "paragraphs": [
+              "Use the first few minutes to learn the rhythm rather than chasing a perfect score. Watch how the game responds to each input, notice which choices create more options, and restart calmly if an early decision blocks progress.",
+              "Once the basic rules feel natural, start thinking one or two moves ahead. Most avoidable mistakes come from acting on the first visible option instead of checking whether it helps the next step."
+            ]
+          },
+          {
+            "heading": "Common Mistakes",
+            "paragraphs": [
+              "The most common beginner mistake is treating every move as isolated. Good play usually comes from sequencing: one decision should prepare the next, clear space, or protect an important resource.",
+              "Another mistake is ignoring the easiest source of feedback. When a run fails, pause for a moment and name the reason. A specific lesson is more useful than a fast retry."
+            ]
+          },
+          {
+            "heading": "Ready to Play",
+            "paragraphs": [
+              "Open Daily Number Match, play a short round, and focus on clean decisions. The more deliberately you read the situation, the faster the game becomes familiar and rewarding."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "game-benefits",
+        "title": "Why Daily Number Match Is Good for Focus",
+        "excerpt": "A look at the attention and problem-solving skills used while playing Daily Number Match.",
+        "category": "Science",
+        "readTime": "6 min read",
+        "date": "2026-01-01",
+        "icon": "brain",
+        "sections": [
+          {
+            "heading": "What Makes Daily Number Match Different",
+            "paragraphs": [
+              "Daily Number Match works because the goal is easy to understand but the decisions stay interesting. The game is built around match-ten logic, careful scanning, and daily practice. The best sessions are not about rushing through menus; they are about reading the board, choosing a sensible next move, and learning from each attempt.",
+              "That structure makes the game useful for quick breaks and longer practice sessions. A player can open the browser, understand the objective quickly, and still find enough depth to improve over time."
+            ]
+          },
+          {
+            "heading": "First Session Priorities",
+            "paragraphs": [
+              "Use the first few minutes to learn the rhythm rather than chasing a perfect score. Watch how the game responds to each input, notice which choices create more options, and restart calmly if an early decision blocks progress.",
+              "Once the basic rules feel natural, start thinking one or two moves ahead. Most avoidable mistakes come from acting on the first visible option instead of checking whether it helps the next step."
+            ]
+          },
+          {
+            "heading": "Common Mistakes",
+            "paragraphs": [
+              "The most common beginner mistake is treating every move as isolated. Good play usually comes from sequencing: one decision should prepare the next, clear space, or protect an important resource.",
+              "Another mistake is ignoring the easiest source of feedback. When a run fails, pause for a moment and name the reason. A specific lesson is more useful than a fast retry."
+            ]
+          },
+          {
+            "heading": "Ready to Play",
+            "paragraphs": [
+              "Open Daily Number Match, play a short round, and focus on clean decisions. The more deliberately you read the situation, the faster the game becomes familiar and rewarding."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "how-to-improve",
+        "title": "How to Improve at Daily Number Match",
+        "excerpt": "Build a repeatable method for improving at Daily Number Match without frustration.",
+        "category": "Strategy",
+        "readTime": "6 min read",
+        "date": "2026-01-01",
+        "icon": "chart",
+        "sections": [
+          {
+            "heading": "What Makes Daily Number Match Different",
+            "paragraphs": [
+              "Daily Number Match works because the goal is easy to understand but the decisions stay interesting. The game is built around match-ten logic, careful scanning, and daily practice. The best sessions are not about rushing through menus; they are about reading the board, choosing a sensible next move, and learning from each attempt.",
+              "That structure makes the game useful for quick breaks and longer practice sessions. A player can open the browser, understand the objective quickly, and still find enough depth to improve over time."
+            ]
+          },
+          {
+            "heading": "First Session Priorities",
+            "paragraphs": [
+              "Use the first few minutes to learn the rhythm rather than chasing a perfect score. Watch how the game responds to each input, notice which choices create more options, and restart calmly if an early decision blocks progress.",
+              "Once the basic rules feel natural, start thinking one or two moves ahead. Most avoidable mistakes come from acting on the first visible option instead of checking whether it helps the next step."
+            ]
+          },
+          {
+            "heading": "Common Mistakes",
+            "paragraphs": [
+              "The most common beginner mistake is treating every move as isolated. Good play usually comes from sequencing: one decision should prepare the next, clear space, or protect an important resource.",
+              "Another mistake is ignoring the easiest source of feedback. When a run fails, pause for a moment and name the reason. A specific lesson is more useful than a fast retry."
+            ]
+          },
+          {
+            "heading": "Ready to Play",
+            "paragraphs": [
+              "Open Daily Number Match, play a short round, and focus on clean decisions. The more deliberately you read the situation, the faster the game becomes familiar and rewarding."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "parents-guide",
+        "title": "Daily Number Match for Kids: Parent Guide",
+        "excerpt": "Safety notes and screen-time advice for families playing Daily Number Match.",
+        "category": "Family",
+        "readTime": "6 min read",
+        "date": "2026-01-01",
+        "icon": "family",
+        "sections": [
+          {
+            "heading": "What Makes Daily Number Match Different",
+            "paragraphs": [
+              "Daily Number Match works because the goal is easy to understand but the decisions stay interesting. The game is built around match-ten logic, careful scanning, and daily practice. The best sessions are not about rushing through menus; they are about reading the board, choosing a sensible next move, and learning from each attempt.",
+              "That structure makes the game useful for quick breaks and longer practice sessions. A player can open the browser, understand the objective quickly, and still find enough depth to improve over time."
+            ]
+          },
+          {
+            "heading": "First Session Priorities",
+            "paragraphs": [
+              "Use the first few minutes to learn the rhythm rather than chasing a perfect score. Watch how the game responds to each input, notice which choices create more options, and restart calmly if an early decision blocks progress.",
+              "Once the basic rules feel natural, start thinking one or two moves ahead. Most avoidable mistakes come from acting on the first visible option instead of checking whether it helps the next step."
+            ]
+          },
+          {
+            "heading": "Common Mistakes",
+            "paragraphs": [
+              "The most common beginner mistake is treating every move as isolated. Good play usually comes from sequencing: one decision should prepare the next, clear space, or protect an important resource.",
+              "Another mistake is ignoring the easiest source of feedback. When a run fails, pause for a moment and name the reason. A specific lesson is more useful than a fast retry."
+            ]
+          },
+          {
+            "heading": "Ready to Play",
+            "paragraphs": [
+              "Open Daily Number Match, play a short round, and focus on clean decisions. The more deliberately you read the situation, the faster the game becomes familiar and rewarding."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
