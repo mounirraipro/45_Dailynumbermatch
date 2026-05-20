@@ -310,4 +310,25 @@ export const articleMeta: Record<string, ArticleMeta> = {
         category: 'Guides',
         readTime: '7 min read',
     },
+
+    'daily-number-match-strategy-guide': {
+        slug: 'daily-number-match-strategy-guide',
+        title: 'Daily Number Match Strategy Guide: How to Clear More Boards',
+        description: 'A practical Daily Number Match strategy guide covering scan order, match-ten pairs, board control, hints, and calm habits for better clears.',
+        datePublished: '2026-05-20',
+        dateModified: '2026-05-20',
+        keywords: ['Daily Number Match strategy', 'Daily Number Match tips', 'number match guide', 'match ten puzzle tips', 'how to play Daily Number Match'],
+        category: 'Strategy',
+        readTime: '9 min read',
+    },
+    'why-number-match-puzzles-build-focus': {
+        slug: 'why-number-match-puzzles-build-focus',
+        title: 'Why Number Match Puzzles Build Focus Without Feeling Like Homework',
+        description: 'Explore how Daily Number Match uses pattern recognition, light arithmetic, memory, and calm repetition to support focus in a low-pressure browser game.',
+        datePublished: '2026-05-20',
+        dateModified: '2026-05-20',
+        keywords: ['number match puzzles focus', 'Daily Number Match benefits', 'match ten puzzle brain', 'number puzzle concentration', 'browser brain game'],
+        category: 'Wellbeing',
+        readTime: '8 min read',
+    },
 };
